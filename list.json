@@ -1,13 +1,14 @@
 {
   "name": "tokens",
   "timestamp": "2021-08-19T02:50:38.889Z",
-  "version": { "major": 22222, "minor": 111, "patch": 11 },
-  "tags": {
+  "version": {
+    "major": 22222,
+    "minor": 111,
+    "patch": 11
   },
+  "tags": {},
   "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
-  "keywords": [
-    "default"
-  ],
+  "keywords": ["default"],
   "tokens": [
     {
       "sortWeight": 20,
@@ -71,6 +72,15 @@
       "decimals": 18,
       "symbol": "DAI",
       "logoURI": "https://zenith-prd-starslabs-lendingmgt.s3.ap-northeast-1.amazonaws.com/35976EF7931AE5B0605CFF86FBC9D2C8"
+    },
+    {
+      "sortWeight": 11,
+      "chainId": 1818,
+      "address": "0xFE99Ea1f1FD9C121Efb602bD4f098f9090c52909",
+      "name": "Cube-Peg HT Token",
+      "tokenDecimal": 18,
+      "symbol": "HT",
+      "logoURI": "https://zenith-prd-starslabs-lendingmgt.s3.ap-northeast-1.amazonaws.com/6047A4B82A6D8DC8BABBE1160313A47D"
     }
   ]
 }
