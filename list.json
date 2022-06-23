@@ -6,20 +6,16 @@
     "minor": 6,
     "patch": 0
   },
-  "tags": {
-    
-  },
+  "tags": {},
   "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
-  "keywords": [
-    "default"
-  ],
+  "keywords": ["default"],
   "tokens": [
     {
       "name": "CUbemoon",
       "address": "0x17ad31690227fec5bd62ad2067c39a49bc39eb5d",
       "symbol": "cubemoon",
       "decimals": 18,
-      "chainId": 1818,
+      "chainId": 1818
     }
   ]
 }
