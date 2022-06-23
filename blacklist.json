@@ -4,10 +4,44 @@
   "version": { "major": 22222, "minor": 111, "patch": 11 },
   "tokens": [
     {
-      "address": "0xb1c5b16736d78df3fad8ad6861f5bc120a5a8cea"
+      "address": "0xb1c5b16736d78df3fad8ad6861f5bc120a5a8cea",
+      "symbol": "FLY"
     },
     {
-      "address": "0x9603347a4421a35f6f390e3f187bd24c80bdfb27"
+      "address": "0x9603347a4421a35f6f390e3f187bd24c80bdfb27",
+      "symbol": "ICUBE"
+    },
+    {
+      "address": "0x17ad31690227fec5bd62ad2067c39a49bc39eb5d",
+      "symbol": "CubeMoon"
+    },
+    {
+      "address": "0x820e3d8b6Bf9ce8056Ff4fbe2b4caB476317e8b8",
+      "symbol": "TEA"
+    },
+    {
+      "address": "0x95E78528791fA244dF8B492Eb3d20d77295f0637",
+      "symbol": "TEB"
+    },
+    {
+      "address": "0x1970e5061fa4Fd13793a81ef9eC6Bd39604CB16F",
+      "symbol": "TEC"
+    },
+    {
+      "address": "0x768fa8f5a442D16C113AEf954C9cE11D8a727abA",
+      "symbol": "TED"
+    },
+    {
+      "address": "0x97d2632Da4339dBa6e4DB917e00f11F07Bc92fEa",
+      "symbol": "TEE"
+    },
+    {
+      "address": "0x865dCe63356A962e519844bf7c0809c706aA0be0",
+      "symbol": "TEF"
+    },
+    {
+      "address": "0xeCdd96CCe731aF7C2B19aE26b07C477c5c0a9f56",
+      "symbol": "TEG"
     }
   ]
 }
